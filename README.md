@@ -6,6 +6,7 @@
 
 ## Description
 
+A university registrar app created as practice in modeling several different classes (Student, Course, etc.) in a SQL database.
 
 ## Technologies Used
 
